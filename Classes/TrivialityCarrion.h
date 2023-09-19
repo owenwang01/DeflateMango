@@ -115,21 +115,18 @@ static NSString * const dvicInterfereTake = @"284";
 #define WIDGET_INDEMNIFY @"niqPentiumEcho"
 #define TIERED_DISJOINTED @"pintAugmentFine"
 
-/*
- 测试
- */
 #define BINDER_SATISFACTORY @"week"
 #define OVEREXPOSE_INSECURITY @"month"
 #define RUMBUSTIOUS_CNDUCTV @"year"
-#define HANDCUFFS_CATCHY    @"family_week"
-#define MBA_CNST    @"family_month"
-#define SPRTSMNSHP_HAM    @"family_year"
-#define STIPULATE_CLURSTC    @"free_month"
-#define CL_SOOTH   @"e7486eea6edb43309cad765b4d0eaa92"
-#define HYMEN_COCKSUCKER @"http://54.187.6.80"
-#define BOARDROOM_PLYHUS             @"6446979826"
-#define MIAOW_LENGTHEN             @"fb1005459233456032"
-#define MIDGET_ANOMALOUS      @"kowaibao-test-os03"
-#define AROUSAL_BOARDROOM           @"100"
+#define HANDCUFFS_CATCHY    @"week_family"
+#define MBA_CNST    @"month_family"
+#define SPRTSMNSHP_HAM    @"year_family"
+#define STIPULATE_CLURSTC    @"trial"
+#define CL_SOOTH   @"509e228123f74bfa88e640caadcd77c6"
+#define HYMEN_COCKSUCKER @"http://www.glovi.work"
+#define BOARDROOM_PLYHUS             @"6458649545"
+#define MIAOW_LENGTHEN             @"fb327142303107224"
+#define MIDGET_ANOMALOUS      @"koglovi-321-8xkafv7b"
+#define AROUSAL_BOARDROOM           @"321"
 
 #endif 
