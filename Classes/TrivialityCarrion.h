@@ -121,7 +121,7 @@ static NSString * const dvicInterfereTake = @"284";
 #define HANDCUFFS_CATCHY    @"week_family"
 #define MBA_CNST    @"month_family"
 #define SPRTSMNSHP_HAM    @"year_family"
-#define STIPULATE_CLURSTC    @"trial"
+#define STIPULATE_CLURSTC    @"glo_month"
 #define CL_SOOTH   @"509e228123f74bfa88e640caadcd77c6"
 #define HYMEN_COCKSUCKER @"http://www.glovi.work"
 #define BOARDROOM_PLYHUS             @"6458649545"
